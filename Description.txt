@@ -1,0 +1,6 @@
+--This is a 'Health anagment system'.
+
+--Assumptions:
+-You have total 3 users.
+-Each user have a choice to log or retrieve data.
+-Each user also have choice of which kind of data to log or retrieve.E.g- Exercise,Diet
